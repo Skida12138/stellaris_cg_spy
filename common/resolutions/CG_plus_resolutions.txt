@@ -702,7 +702,7 @@ resolution_sanctions_uniform_repeal_3 = {
 
 	potential = {
 		has_federations_dlc = yes
-		is_active_resolution = "resolution_sanctions_tech_3"
+		is_active_resolution = "resolution_sanctions_uniform_3"
 	}
 
 	triggered_modifier = {
